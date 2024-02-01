@@ -8,5 +8,5 @@ This repository contains two (2) files:
 
 Find assignment details on Canvas.
 
-*  Structure and Execution
+*  Structure and Execution:     
 The notebook follows a unique structure where each code segment is executed before discussing its results. Specifically, the relevant code is run first for every question posed in the assignment.
